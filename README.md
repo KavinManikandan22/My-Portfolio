@@ -2,8 +2,7 @@
 
 A responsive personal portfolio website built with **HTML, CSS and JavaScript**. It introduces me as a web developer and presents my education, skills, projects and contact details in a clean black and white design.
 
-🔗 **Live Site:** [https://kavinmanikandan22.github.io/YOUR-REPO-NAME/](https://kavinmanikandan22.github.io/YOUR-REPO-NAME/)
-
+🔗 **Live Site:**  https://kavinmanikandan22.github.io/My-Portfolio/
 <!-- Add a screenshot: save it as image/preview.png and remove the comment marks below -->
 <!-- ![Portfolio Preview](image/preview.png) -->
 
